@@ -5,7 +5,7 @@ A model globe of the celestial sphere is called a celestial globe.
 ### https://globe-unverse-magamed.netlify.app/
 
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image of Project](https://github.com/AndyMagwayer/space-globe/blob/main/space-globe-three-js.jpg)
 
 
 
