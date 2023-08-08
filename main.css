@@ -11,4 +11,15 @@ body{
     height: 100vh;
     background-image: url(https://user-images.githubusercontent.com/26748614/96337246-f14d4580-1085-11eb-8793-a86d929e034d.jpg);
     background-size: cover;
+    background-filter: brightness(50%);
 }
+
+canvas{
+    display: block;
+}
+
+#canvas_container{
+    width: 100%;
+    height: 100vh;
+}
+
